@@ -59,13 +59,7 @@ cd <repo-name>
 open index.html
 ```
 
-### Deploy to GitHub Pages
 
-1. Go to your repo **Settings → Pages**
-2. Set source to `main` branch, `/ (root)`
-3. Save — your site will be live at `https://Muneeba-Jamil90.github.io/<repo-name>/`
-
----
 
 ## 📁 Project Structure
 
